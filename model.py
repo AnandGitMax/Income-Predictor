@@ -1,5 +1,5 @@
 import os
-os.chdir("C:\\Users\\anand\\OneDrive\\Desktop\\Projects\\Expense_Income_Predictions")
+
 
 #Import modules and libraries
 import pandas as pd
